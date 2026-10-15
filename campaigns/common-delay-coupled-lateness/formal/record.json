@@ -1,0 +1,7 @@
+{
+  "id": "Q009",
+  "source_definition": "The source gives positive binary integer weights. A valid output is a subset whose sum is half the total, or NO-SOLUTION if no such subset exists.",
+  "target_definition": "On one machine, each job has a first operation of common length p, an exact delay p, a second operation of length b_i, and a deadline d_i. Binary integer start times must avoid overlap and meet every deadline; zero-length second operations are allowed.",
+  "required_result": "Construct deterministic polynomial-time maps F and G: F sends every legal source instance to a legal target instance, and G(x,y) is a valid source output for every valid output y of F(x). Preserve the stated threshold, domain and promises. The requested complexity conclusion is NP-hardness for the stated target problem.",
+  "equation": ""
+}
